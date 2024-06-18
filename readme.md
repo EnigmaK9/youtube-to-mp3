@@ -20,7 +20,7 @@ Tube2MP3 Master is a Python application that allows you to download YouTube vide
 ## Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/tube2mp3-master.git
+   git clone https://github.com/EnigmaK9/youtube-to-mp3
    cd tube2mp3-master
 
 ### Create and activate a virtual environment:
